@@ -1,0 +1,1 @@
+"use strict";!function(e,t){function n(){t.documentElement.style.fontSize=20*t.documentElement.clientWidth/375+"px"}n(),e.addEventListener("resize",n,!1)}(window,document);
